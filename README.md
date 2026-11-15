@@ -1,16 +1,26 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+A landing page for the project-management guidance in [`docs/`](docs/). These documents describe how OctoAcme initiates, plans, delivers, releases, and improves projects.
 
-Hey 55tame!
+## Project management process summary
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme manages work through a lightweight lifecycle:
 
-Remember, it's self-paced so feel free to take a break! ☕️
+1. **Initiation:** Validate the business need, define measurable outcomes, identify stakeholders, capture initial risks and dependencies, and decide whether to proceed.
+2. **Planning:** Turn approved work into a prioritized, estimated backlog; agree on acceptance criteria and a Definition of Done; identify dependencies, risks, milestones, and a release plan.
+3. **Execution and tracking:** Deliver in small increments using a project board, regular team and stakeholder communication, reviews and demos, automated testing, and ongoing progress and risk tracking. Escalate blockers through the defined team, PM, Product Lead, and sponsor paths.
+4. **Release and deployment:** Confirm acceptance criteria, CI and security checks, release notes, smoke tests, and rollback plans; deploy and verify, then communicate the release.
+5. **Retrospective and improvement:** Review learnings after sprints, releases, milestones, and incidents; choose a small number of owned action items and track their impact.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/55tame/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+Across the lifecycle, the Project Manager coordinates delivery, risks, schedules, and communications; the Product Manager owns outcomes and priorities; developers build and test; QA validates quality; and stakeholders provide input and approvals. Teams emphasize clear ownership, data-informed decisions, iterative delivery, and psychological safety.
 
----
+## Process documents
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution and Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management and Communication](docs/octoacme-risks-and-communication.md)
+- [Release and Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective and Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md)
